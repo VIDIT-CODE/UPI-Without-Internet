@@ -113,8 +113,3 @@ These describe the assertions in the test suite, rather than a published test-ru
 - Explore shared idempotency storage and authenticated bridge requests.
 
 These are future enhancements and are not part of the current implementation.
-
-## 🙏 Acknowledgment
-
-This is a tutorial-based learning project using the implementation from [perryvegehan/UPI_Without_Internet](https://github.com/perryvegehan/UPI_Without_Internet). Credit for the original code and project foundation belongs to its creator.
-
